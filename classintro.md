@@ -6,7 +6,7 @@ But beyond a general sense of wanting to give students free access to high-quali
 
 This course is designed to provide a very brief overview of these issues, with the goal of getting faculty up and running very quickly. There is no shortage of information about OERs. The trick is finding the time to read all of it. This class, designed to be completed in around 20 minutes, is a carefully curated collection of the best links pertaining to OER.
 
-Librarians are your best friends and resources when it comes to OERs. Get to know your librrian. They *are* friendly people, _especially_ when given food. 
+Librarians are your best friends and resources when it comes to OERs. Get to know your librrian. They *are* friendly people, **especially** when given food. 
 
 [This class was created by the CUNY Open Education Resources (OER) Group](https://commons.gc.cuny.edu/groups/cuny-open-education-resources-oer/).
 
